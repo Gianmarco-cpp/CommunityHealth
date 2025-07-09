@@ -1,2 +1,0 @@
-# CommunityHealth
-Created with CodeSandbox
